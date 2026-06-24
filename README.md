@@ -1,6 +1,6 @@
 # Sam Sinha · Portfolio
 
-A single-page, dependency-free portfolio site. Everything is in one `index.html` plus two assets, so it runs anywhere with no build step.
+A single-page, dependency-free portfolio site with a dark theme and neon teal, indigo, and violet accents. Everything is in one `index.html` plus two assets, so it runs anywhere with no build step. Your photo is embedded directly in the page.
 
 ## Files
 - `index.html` — the whole site (HTML, CSS, and JS inline)
